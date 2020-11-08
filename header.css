@@ -84,3 +84,29 @@ background-size: cover;
 background-position: center center;
 background-repeat: no-repeat;
 }
+
+footer{
+	margin: 0 auto;
+	width: 100%;
+}
+.footer{
+	display: flex;
+	padding: 15px 20px;
+}
+
+.footer_group-2{
+       padding: 15px 20px;
+       width: 200px;
+}
+
+
+.Group-svg{
+	height: 5vh
+}
+
+.TOXIN-svg{
+	height: 3vh;
+}
+ul{
+	list-style-type: none;
+}
